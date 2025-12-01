@@ -12,3 +12,4 @@ if($a > $b)
  echo "apakah keduanya sama?";
  echo ($a == $b) ? " Ya\n" : " Tidak\n";
 ?>
+
